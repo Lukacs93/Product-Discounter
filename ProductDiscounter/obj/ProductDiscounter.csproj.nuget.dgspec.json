@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj",
+        "projectName": "ProductDiscounter",
+        "projectPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj",
+        "packagesPath": "C:\\Users\\lukac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounterTest\\ProductDiscounterTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounterTest\\ProductDiscounterTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounterTest\\ProductDiscounterTest.csproj",
+        "projectName": "ProductDiscounterTest",
+        "projectPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounterTest\\ProductDiscounterTest.csproj",
+        "packagesPath": "C:\\Users\\lukac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounterTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj": {
+                "projectPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj",
+        "projectName": "ProductDiscounter",
+        "projectPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\ProductDiscounter.csproj",
+        "packagesPath": "C:\\Users\\lukac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukac\\codecool-projects\\ProductDiscounter\\ProductDiscounter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
