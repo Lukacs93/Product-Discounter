@@ -1,0 +1,10 @@
+.idea/
+.idea/.idea.ProductDiscounter/.idea
+.vs/
+.vscode/
+
+ProductDiscounter/obj/
+ProductDiscounter/bin/
+
+ProductDiscounterTest/obj/
+ProductDiscounterTest/bin/
